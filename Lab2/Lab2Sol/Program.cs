@@ -5,6 +5,10 @@ namespace Lab2Sol
 {
     class Program
     {
+        /// <summary>
+        /// simple test
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             int sum = 0;
